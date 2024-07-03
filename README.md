@@ -1,9 +1,11 @@
 # Data Set for the France Synthetic Control Study on Fertility Rate
 
-In this repository you will find the data set we compiled for the study in a csv format. 
+The dataset we compiled is used to explore the question: **What was the causal effect of the 1994 French Parental Leave Reform on France's total fertility rate (TFR)?**
+
+In this repository you will find: a codebook with descriptions of the variables, the dataset in a csv format, and the code used for the analysis. 
 
 # Codebook 
-This dataset is used to explore the question: What was the causal effect of the 1994 French Parental Leave Reform on France's total fertility rate (TFR)? It contains 15 countries including France and takes the form of panel data, each row describing different years.
+The dataset contains 15 countries including France and takes the form of panel data, each row describing different years.
 The unit of analysis in this codebook is country. The only unit that has 1 as a treatment variable is France, and it is compared against other OECD countries meeting the donor pool criteria: Austria, Belgium, Canada, Finland, Greece, Iceland, Ireland, Italy, South Korea, Luxembourg, New Zealand, Norway, Spain, Switzerland.
 
 | Variable category | Name | Description | Type | Source |
